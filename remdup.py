@@ -11,3 +11,5 @@ def remdup(l):
     print(l)
 
 remdup([5,5,5,5,1,1,5,5,5])
+
+#code by : alpha_maverick
